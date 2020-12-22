@@ -6,4 +6,4 @@ Following along with a Udemy Course and creating project to beef up my CSS and J
 
 https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/
 
-Left off on Project 1, finished Part 9,
+Project 1 finished!
